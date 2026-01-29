@@ -1,0 +1,16 @@
+{
+  "name": "WALLACE",
+  "symbol": "HLS",
+  "description": "YourToken on Solana",
+  "image": "https://arweave.net/CeZcr8sgOozAGiYeyjhlV0ErBRWS5v6T3WI6e4KrcEM",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://arweave.net/CeZcr8sgOozAGiYeyjhlV0ErBRWS5v6T3WI6e4KrcEM",
+        "type": "image/png"
+      }
+    ],
+    "category": "fungible"
+  }
+}
